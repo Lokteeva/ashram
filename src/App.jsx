@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import React from 'react';
 
@@ -9,8 +8,8 @@ function App() {
       <header>
       <h1 className='logo'>Встреча с Кришной и Его преданными...</h1>
                         <nav>
-                        <h2  href="">Избранное</h2>
-                        <h2  href="">Заявки</h2>
+                        <h2  href="#"> </h2>
+                        <h2  href="#">Контакты</h2>
                         </nav>
       </header>
       <div className='bannerSection'>               
@@ -41,37 +40,37 @@ function App() {
       <th scope="row">
       <img src="/logo.png" className="imgLogo" alt="img"></img>
       </th>
-      <td className='Candara2'>погружение в <a className='Candara3'>духовную практику</a>
+      <td className='Candara2'>погружение в <strong className='Candara3'>духовную практику</strong>
  </td>
     </tr>
     <tr>
     <th scope="row"><img src="/logo.png" className="imgLogo" alt="img"></img></th>
-      <td className='Candara2'>новое общение, обучение и <a className='Candara3'>развитие</a> </td>
+      <td className='Candara2'>новое общение, обучение и <strong className='Candara3'>развитие</strong> </td>
     </tr>
     <tr>
       <th scope="row"><img src="/logo.png" className="imgLogo" alt="img"></img></th>
-      <td className='Candara2'> спорт или активный отдых на <a className='Candara3'>море</a>, в <a className='Candara3'>горах</a></td>
+      <td className='Candara2'> спорт или активный отдых на <strong className='Candara3'>море</strong>, в <strong className='Candara3'>горах</strong></td>
     </tr>
     <tr>
       <th scope="row">
       <img src="/logo.png" className="imgLogo" alt="img"></img>
       </th>
-      <td className='Candara2'>комфортное комплексное <a className='Candara3'>оздоровление</a></td>
+      <td className='Candara2'>комфортное комплексное <strong className='Candara3'>оздоровление</strong></td>
     </tr>
     <tr>
     <th scope="row"><img src="/logo.png" className="imgLogo" alt="img"></img></th>
-      <td className='Candara2'>живые эмоции и насыщенные <a className='Candara3'>путешествия</a></td>
+      <td className='Candara2'>живые эмоции и насыщенные <strong className='Candara3'>путешествия</strong></td>
     </tr>
     <tr>
       <th scope="row">
       <img src="/logo.png" className="imgLogo" alt="img"></img>
       </th>
-      <td className='Candara2'>тихий семейный отдых и интересный <a className='Candara3'>детский досуг</a></td>
+      <td className='Candara2'>тихий семейный отдых и интересный <strong className='Candara3'>детский досуг</strong></td>
     </tr>
     <tr>
     <th scope="row"><img src="/logo.png" className="imgLogo" alt="img"></img></th>
       <td className='Candara2'>все или более одного варианта, такой мой 
-<a className='Candara3'> отпуск лучший!</a></td>
+<strong className='Candara3'> отпуск лучший!</strong></td>
     </tr>
   </tbody>
   </table>
@@ -82,9 +81,25 @@ function App() {
 </div>
 </div>
 
-<div>
-<img src="/fon.png" className="imgLi" alt="img"></img>
+<div className="bannerSection">
+  <div className="banner3">
+      <h3 className='AlmaItalic'>Приглашаем Вас провести свой лучший отпуск в Ашрам Сочи и …</h3>
+  </div>
 </div>
+
+<div className='presentationBox'>
+  <div className='presentation'>
+    <div className="box1" alt="img"><img src="/img1.jpg" alt="img"></img></div>
+    <div className="box2" alt="img"><img src="/img2.jpg" alt="img"></img></div>
+    <div className="box3" alt="img"><img src="/img3.jpg" alt="img"></img></div>
+    <div className="box4" alt="img"><img src="/img4.jpg" alt="img"></img></div>
+    <div className="box5" alt="img"><img src="/img5.jpg" alt="img"></img></div>
+    <div className="box6" alt="img"><img src="/img6.jpg" alt="img"></img></div>
+    <div className="box7" alt="img"><img src="/img7.jpg" alt="img"></img></div>
+  </div>
+</div>
+
+
 
 
 
