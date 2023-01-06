@@ -87,17 +87,34 @@ function App() {
   </div>
 </div>
 
-<div className='presentationBox'>
-  <div className='presentation'>
-    <div className="box1" alt="img"><img src="/img1.jpg" alt="img"></img></div>
-    <div className="box2" alt="img"><img src="/img2.jpg" alt="img"></img></div>
-    <div className="box3" alt="img"><img src="/img3.jpg" alt="img"></img></div>
-    <div className="box4" alt="img"><img src="/img4.jpg" alt="img"></img></div>
-    <div className="box5" alt="img"><img src="/img5.jpg" alt="img"></img></div>
-    <div className="box6" alt="img"><img src="/img6.jpg" alt="img"></img></div>
-    <div className="box7" alt="img"><img src="/img7.jpg" alt="img"></img></div>
+<div className=' '>
+<img src="/placat.jpg" className="placat" alt="img"></img>
+</div>
+
+<div className='oo'>
+  <div className='ww'>
+    <div>.</div>
+    <div >img1</div>
+    <div>img2</div>
+    <div>img3</div>
+    <div>.</div>
+  </div>
+  <div>
+    <div>1</div>
+    <div>2</div>
+    <div>3</div>
+    <div>4</div>
+    <div>5</div>
+  </div>
+  <div className='ww2'>
+    <div>.</div>
+    <div>img4</div>
+    <div>.</div>
+    <div>img5</div>
+    <div>.</div>
   </div>
 </div>
+
 
 
 
