@@ -275,8 +275,8 @@ function App() {
 
 <br/>
 <div className="bannerSection">
-  <div className="banner3">
-   <h3>.</h3>
+<div className="banner3">
+     <h3>.</h3>
       <h3 className='AlmaItalic'>Гостевой дом</h3> 
       <h3>.</h3>     
   </div>
@@ -294,41 +294,252 @@ function App() {
     </tr>
     <tr>
     <th scope="row"><img src="/logo.png" className="imgLogo" alt="img"></img></th>
-      <td className='Candara2'>новое общение, обучение и <strong className='Candara3'>развитие</strong> </td>
+    <td className='Candara2'><strong className='Candara3'>Питание:</strong>  2х разовое вегетарианское (прасад)</td>
     </tr>
     <tr>
       <th scope="row"><img src="/logo.png" className="imgLogo" alt="img"></img></th>
-      <td className='Candara2'> спорт или активный отдых на <strong className='Candara3'>море</strong>, в <strong className='Candara3'>горах</strong></td>
+      <td className='Candara2'><strong className='Candara3'>Кафе:</strong> вегетарианское меню (прасад, возможен заказ и кэйтеринг)</td>
     </tr>
     <tr>
       <th scope="row">
       <img src="/logo.png" className="imgLogo" alt="img"></img>
       </th>
-      <td className='Candara2'>комфортное комплексное <strong className='Candara3'>оздоровление</strong></td>
+      <td className='Candara2'><strong className='Candara3'>Магазин</strong> индийских товаров и вайшнавской атрибутики</td>
     </tr>
     <tr>
     <th scope="row"><img src="/logo.png" className="imgLogo" alt="img"></img></th>
-      <td className='Candara2'>живые эмоции и насыщенные <strong className='Candara3'>путешествия</strong></td>
+    <td className='Candara2'><strong className='Candara3'>Ресурсы для обучения</strong> и проведения мероприятий</td>
     </tr>
     <tr>
       <th scope="row">
       <img src="/logo.png" className="imgLogo" alt="img"></img>
       </th>
-      <td className='Candara2'>тихий семейный отдых и интересный <strong className='Candara3'>детский досуг</strong></td>
+      <td className='Candara2'><strong className='Candara3'>Территория</strong> большая, утопающая в зелени и цветах</td>
     </tr>
     <tr>
     <th scope="row"><img src="/logo.png" className="imgLogo" alt="img"></img></th>
-      <td className='Candara2'>все или более одного варианта, такой мой 
-<strong className='Candara3'> отпуск лучший!</strong></td>
+    <td className='Candara2'>Удобное<strong className='Candara3'>расположение</strong> и уникальное <strong className='Candara3'>окружение</strong></td>
+    </tr>
+    <tr>
+    <th scope="row"><img src="/logo.png" className="imgLogo" alt="img"></img></th>
+    <td className='Candara2'><strong className='Candara3'>Дополнительные сервисы и возможности*:</strong><br/> детский досуг,
+оздоровительные программы и увлекательные<br/> путешествия, спорт, активный отдых</td>
     </tr>
   </tbody>
   </table>
+  </div>
+</div>
+<p className='Candara4'>* Дополнительные сервисы не входят в стоимость проживания, организуются по запросу и предварительной договоренности</p>
+
+<br/>
+<div className="bannerSection">
+<div className="banner3">
+     <h3>.</h3>
+      <h3 className='AlmaItalic'>Комфортабельные номера, зоны отдыха, кафе</h3> 
+      <h3>.</h3>     
+  </div>
+</div>
+
+<div><img src="/img9.jpg" className="imgLi" alt="img"></img></div>
+
+<br/>
+<div className="bannerSection">
+<div className="banner3">
+     <h3>.</h3>
+      <h3 className='AlmaItalic'>Ресурсы для обучения и мероприятий</h3> 
+      <h3>.</h3>     
+  </div>
+</div>
+
+<div className="liSection4">
+<div>
+<h3 className='Candara2'>Конференц-зал (60 м2)</h3> 
+
+<div>
+  <table class="table">
+  <tbody>
+    <tr>
+      <th scope="row">
+      <img src="/point.jpg" className="imgLogo" alt="img"></img>
+      </th>
+      <td className='Candara2'>зал вместимостью более 50 человек</td>
+    </tr>
+    <tr>
+    <th scope="row"><img src="/point.jpg" className="imgLogo" alt="img"></img></th>
+    <td className='Candara2'>светлое просторное помещение, <br/> отдельный вход, высокие потолки и окна</td>
+    </tr>
+    <tr>
+      <th scope="row"><img src="/point.jpg" className="imgLogo" alt="img"></img></th>
+      <td className='Candara2'>2 мощных кондиционера</td>
+    </tr>
+    <tr>
+      <th scope="row">
+      <img src="/point.jpg" className="imgLogo" alt="img"></img>
+      </th>
+      <td className='Candara2'>телевизор для презентаций/трансляций</td>
+    </tr>
+    <tr>
+    <th scope="row"><img src="/point.jpg" className="imgLogo" alt="img"></img></th>
+    <td className='Candara2'>проектор с экраном</td>
+    </tr>
+    <tr>
+      <th scope="row">
+      <img src="/point.jpg" className="imgLogo" alt="img"></img>
+      </th>
+      <td className='Candara2'>звуковое оборудование, микрофоны</td>
+    </tr>
+    <tr>
+    <th scope="row"><img src="/point.jpg" className="imgLogo" alt="img"></img></th>
+    <td className='Candara2'>доска маркерная и доска с блокнотом</td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+  
+<h3 className='Candara2'>Коворкинг зона *</h3> 
+
+<div>
+  <table class="table">
+  <tbody>
+    <tr>
+      <th scope="row">
+      <img src="/point.jpg" className="imgLogo" alt="img"></img>
+      </th>
+      <td className='Candara2'>просторная комната для индивидуальных и<br/> групповых занятий/встреч (до 10 человек)</td>
+    </tr>
+    <tr>
+    <th scope="row"><img src="/point.jpg" className="imgLogo" alt="img"></img></th>
+    <td className='Candara2'>удобные рабочие места</td>
+    </tr>
+    <tr>
+      <th scope="row"><img src="/point.jpg" className="imgLogo" alt="img"></img></th>
+      <td className='Candara2'>офисное оборудование: ноутбуки, принтер</td>
+    </tr>
+    <tr>
+      <th scope="row">
+      <img src="/point.jpg" className="imgLogo" alt="img"></img>
+      </th>
+      <td className='Candara2'>мультимедия телевизор для презентаций</td>
+    </tr>    
+    </tbody>
+  </table>
+</div>
+  
+<h3 className='Candara2'>Wi-Fi , выделенный скоростной<br/>интернет (100 мб)</h3> 
+</div>
+
+<div>
+<img src="/img210.jpg" className="imgLi" alt="img"></img>
+</div>
+</div>
+<p className='Candara4'>* Дополнительные сервисы не входят в стоимость проживания, организуются по запросу и предварительной договоренности</p>
+
+<br/>
+<div className="bannerSection">
+<div className="banner3">
+     <h3>.</h3>
+      <h3 className='AlmaItalic'>Территория Ашрама</h3> 
+      <h3>.</h3>     
+  </div>
+</div>
+
+<div className="liSection">
+<div>
+  <table class="table">
+  <tbody>
+    <tr>
+      <th scope="row">
+      <img src="/logo.png" className="imgLogo" alt="img"></img>
+      </th>
+      <td className='Candara2'> Открытый пандал с навесом перед<br/>входом «Гаруда Холл»;</td>
+    </tr>
+    <tr>
+    <th scope="row"><img src="/logo.png" className="imgLogo" alt="img"></img></th>
+      <td className='Candara2'> Большая, огороженная зона отдыха,<br/>утопающая в зелени и цветах;</td>
+    </tr>
+    <tr>
+      <th scope="row"><img src="/logo.png" className="imgLogo" alt="img"></img></th>
+      <td className='Candara2'> Безопасная детская площадка;</td>
+    </tr>
+    <tr>
+      <th scope="row">
+      <img src="/logo.png" className="imgLogo" alt="img"></img>
+      </th>
+      <td className='Candara2'>Беседка для общения и проведения ягий<br/>(ягьякунда);</td>
+    </tr>
+    <tr>
+    <th scope="row"><img src="/logo.png" className="imgLogo" alt="img"></img></th>
+      <td className='Candara2 '>Парковка с видеонаблюдением</td>
+    </tr>
+    <tr>
+      <th scope="row">
+      <img src="/logo.png" className="imgLogo" alt="img"></img>
+      </th>
+      <td className='Candara2'>Wi-Fi на всей территории</td>
+    </tr>
+    </tbody>
+  </table>
 </div> 
+
+<div>
+<img src="/img8.jpg" className="imgLi" alt="img"></img>
+</div>
+</div>
+
+<br/>
+<div className="bannerSection">
+<div className="banner3">
+     <h3>.</h3>
+      <h3 className='AlmaItalic'>Расположение и окружение Ашрама</h3> 
+      <h3>.</h3>     
+  </div>
+</div>
+
+<div className="liSection5">
+<div>
+  <table class="table" cellspacing="20">
+  <tbody>
+    <tr>
+      <th scope="row">
+      <img src="/logo.png" className="imgLogo" alt="img"></img>
+      </th>
+      <td className='Candara2'> Ашрам расположен в самом зеленом и экологически чистом районе Сочи в окружении
+национального парка (реликтовый заповедник) и в 15 мин. ходьбы от моря</td>
+    </tr>
+    <tr>
+    <th scope="row"><img src="/logo.png" className="imgLogo" alt="img"></img></th>
+      <td className='Candara2'>Удаленность от городского шума и суеты, рядом нет высоток и автотрасс, чистейший
+воздух и тишина, слышно журчание ручья и пение птиц, встречаются дикие звери - еноты, белки, ежи ... :)
+</td>
+    </tr>
+    <tr>
+      <th scope="row"><img src="/logo.png" className="imgLogo" alt="img"></img></th>
+      <td className='Candara2'>Возле Ашрама горная река Мацеста с обустроенной набережной с велодорожками </td>
+    </tr>
+    </tbody>
+  </table>
+  <div>
+  <img src="/img233.jpg" className="imgLi" alt="img" height={240}></img>
+  </div>
+</div> 
+
+<div >
+<img src="/img11.jpg" className="imgLi End" alt="img"></img>
+</div>
 </div>
 
 
-</div>                 
-</div>    
+
+
+
+
+
+
+
+</div> 
+</div>  
+               
+  
     
   );
 }
