@@ -34,7 +34,7 @@ function App() {
       
 <div className="liSection">
 <div>
-  <table class="table">
+  <table cellspacing="20" >
   <tbody>
     <tr>
       <th scope="row">
@@ -137,7 +137,7 @@ function App() {
 
 <div className="liSection">
 <div>
-  <table class="table">
+  <table cellspacing="20">
   <tbody>
     <tr>
       <th scope="row">
@@ -186,7 +186,7 @@ function App() {
 
 <div className="liSection">
 <div>
-  <table class="table">
+  <table cellspacing="20">
   <tbody>
     <tr>
       <th scope="row">
@@ -235,7 +235,7 @@ function App() {
 
 <div className="liSection3">
 <div>
-  <table class="table">
+  <table cellspacing="30">
   <tbody>
     <tr>
       <th scope="row">
@@ -284,7 +284,7 @@ function App() {
 
 <div className="liSection">
 <div>
-  <table class="table">
+  <table cellspacing="20">
   <tbody>
     <tr>
       <th scope="row">
@@ -399,7 +399,7 @@ function App() {
 <h3 className='Candara2'>Коворкинг зона *</h3> 
 
 <div>
-  <table class="table">
+  <table >
   <tbody>
     <tr>
       <th scope="row">
@@ -445,7 +445,7 @@ function App() {
 
 <div className="liSection">
 <div>
-  <table class="table">
+  <table cellspacing="20">
   <tbody>
     <tr>
       <th scope="row">
@@ -518,15 +518,359 @@ function App() {
     </tr>
     </tbody>
   </table>
-  <div>
-  <img src="/img233.jpg" className="imgLi" alt="img" height={240}></img>
   </div>
+  <div>
+<img src="/img11.jpg" className="imgLi" alt="img"></img>
 </div> 
+</div>
 
-<div >
-<img src="/img11.jpg" className="imgLi End" alt="img"></img>
+<div>
+  <img src="/img233.jpg" className="imgLi" alt="img" height={500}></img>
+</div>
+
+<br/>
+<div className="liSection5">
+<div>
+  <table class="table" cellspacing="20">
+  <tbody>
+    <tr>
+      <th scope="row">
+      <img src="/logo.png" className="imgLogo" alt="img"></img>
+      </th>
+      <td className='Candara2'>Рядом горы «Орлиные скалы», откуда открываются великолепные виды с
+одной стороны на заснеженные пики высокогорья и на море с другой стороны. В этом же месте -
+живописные водопады и пещера</td>
+    </tr>
+    <tr>
+    <th scope="row"><img src="/logo.png" className="imgLogo" alt="img"></img></th>
+      <td className='Candara2'>За 40 мин. на комфортабельном экспрессе можно добраться до
+высокогорных курортов (2500 м) с подъемниками возле ж/д станции</td>
+    </tr>
+    <tr>
+      <th scope="row"><img src="/logo.png" className="imgLogo" alt="img"></img></th>
+      <td className='Candara2'>В 10-30 минутной зоне езды различные водопады, горы, пещеры,
+туристические маршруты разной сложности, пляж с лечебными грязями и другие достопримечательности Сочи</td>
+    </tr>
+    </tbody>
+  </table>
+  </div>
+
+  <div className='Grid2x2'>
+  <div><img src="/img247.jpg" className="imgCub" alt="img"></img></div>
+  <div><img src="/img245.jpg" className="imgCub" alt="img"></img></div>
+  <div><img src="/img246.jpg" className="imgCub" alt="img"></img></div>
+  <div><img src="/img243.jpg" className="imgCub" alt="img"></img></div>
+</div> 
+</div>
+
+<br/>
+<div className="liSection5">
+<div>
+  <table class="table" cellspacing="20">
+  <tbody>
+    <tr>
+      <th scope="row">
+      <img src="/logo.png" className="imgLogo" alt="img"></img>
+      </th>
+      <td className='Candara2'>10 мин. пешком: живописная «Тропа Здоровья», утопающая в зелени
+тропических растений и проходящая вдоль моря, со спортивными островками, смотровыми площадками и зонами отдыха</td>
+    </tr>
+    <tr>
+    <th scope="row"><img src="/logo.png" className="imgLogo" alt="img"></img></th>
+      <td className='Candara2'>Вся инфраструктура в шаговой доступности: Магнит, Пятерочка, ярмарка
+с местными фруктами, овощами, фермерскими молочными продуктами и пр.</td>
+    </tr>
+    <tr>
+      <th scope="row"><img src="/logo.png" className="imgLogo" alt="img"></img></th>
+      <td className='Candara2'>30 мин. такси от аэропорта и ж/д вокзала Сочи, 15-20 мин. автобус до центра Сочи, ж/д
+станция Мацеста 15 мин пешком</td>
+    </tr>
+    <tr>
+    <th scope="row"><img src="/logo.png" className="imgLogo" alt="img"></img></th>
+      <td className='Candara2'>30 мин. прогулки вдоль красивой набережной или 12 мин на маршрутке до
+бальнео-курорта Мацеста</td>
+    </tr>
+    <tr>
+      <th scope="row"><img src="/logo.png" className="imgLogo" alt="img"></img></th>
+      <td className='Candara2'>25 мин. езды до аюрведической клиники «Расаяна»</td>
+    </tr>
+    </tbody>
+  </table>
+  </div>
+
+  <div className='Grid2x2'>
+  <div><img src="/img254.jpg" className="imgCub" alt="img"></img></div>
+  <div><img src="/img257.jpg" className="imgCub" alt="img"></img></div>
+  <div><img src="/img255.jpg" className="imgCub" alt="img"></img></div>
+  <div><img src="/img256.jpg" className="imgCub" alt="img"></img></div>
+</div> 
+</div>
+
+<br/>
+<div className="bannerSection">
+  <div className="banner3">
+    <h3 className='AlmaItalic'>Дополнительные сервисы и <br/>возможности: оздоровление и спорт</h3>       
+  </div>
+</div>
+
+<div className="liSection5">
+<div>
+  <table class="table" cellspacing="20">
+  <tbody>
+    <tr>
+      <th scope="row">
+      <img src="/logo.png" className="imgLogo" alt="img"></img>
+      </th>
+      <td className='Candara2'>10 мин. пешком: живописная «Тропа Здоровья», утопающая в зелени
+тропических растений и проходящая вдоль моря, со спортивными островками, смотровыми площадками и зонами отдыха</td>
+    </tr>
+    <tr>
+    <th scope="row"><img src="/logo.png" className="imgLogo" alt="img"></img></th>
+      <td className='Candara2'>Вся инфраструктура в шаговой доступности: Магнит, Пятерочка, ярмарка
+с местными фруктами, овощами, фермерскими молочными продуктами и пр.</td>
+    </tr>
+    <tr>
+      <th scope="row"><img src="/logo.png" className="imgLogo" alt="img"></img></th>
+      <td className='Candara2'>30 мин. такси от аэропорта и ж/д вокзала Сочи, 15-20 мин. автобус до центра Сочи, ж/д
+станция Мацеста 15 мин пешком</td>
+    </tr>
+    <tr>
+    <th scope="row"><img src="/logo.png" className="imgLogo" alt="img"></img></th>
+      <td className='Candara2'>30 мин. прогулки вдоль красивой набережной или 12 мин на маршрутке до
+бальнео-курорта Мацеста</td>
+    </tr>
+    <tr>
+      <th scope="row"><img src="/logo.png" className="imgLogo" alt="img"></img></th>
+      <td className='Candara2'>25 мин. езды до аюрведической клиники «Расаяна»</td>
+    </tr>
+    </tbody>
+  </table>
+  </div>
+
+<div>
+  <div><img src="/img265.jpg"  className='imgSicleSuperBig' alt="img"></img></div>
+</div> 
+</div>
+
+<br/>
+<div className="liSection5">
+<div>
+  <table class="table" cellspacing="20">
+  <tbody>
+    <tr>
+      <th scope="row">
+      <img src="/point.jpg" className="imgLogo" alt="img"></img>
+      </th>
+      <td className='Candara2'>Тренировки по скандинавской ходьбе на Терренкуре (10 мин. пешком от Ашрама)</td>
+    </tr>
+    <tr>
+    <th scope="row"><img src="/point.jpg" className="imgLogo" alt="img"></img></th>
+      <td className='Candara2'>«Тропа Здоровья» проходит вдоль моря и среди
+разнообразных тропических деревьев и растений.</td>
+    </tr>
+    <tr>
+      <th scope="row"><img src="/point.jpg" className="imgLogo" alt="img"></img></th>
+      <td className='Candara2'>Терренкур переводится как лечение на местности — это
+метод санаторно-курортного лечения, который предусматривает физические нагрузки в виде активных пеших
+прогулок по гористой местности.</td>
+    </tr>
+    <tr>
+    <th scope="row"><img src="/point.jpg" className="imgLogo" alt="img"></img></th>
+      <td className='Candara2'>Этот вид спорта улучшает работу сердечно-сосудистой
+системы, органов дыхания, ускоряет обмен веществ, и приводит в порядок нервную систему и способствует
+психоэмоциональной стабильности. Помогает укрепить вестибулярный и опорно-двигательный аппараты, суставы,
+выпрямить осанку, снизить уровень плохого холестерина, нормализовать сон и избавиться от депрессии.</td>
+    </tr>
+    <tr>
+      <th scope="row"><img src="/point.jpg" className="imgLogo" alt="img"></img></th>
+      <td className='Candara2'>А еще вы будете в отличной форме, так как задействуются
+90% мышц корпуса, больше чем при беге и велоспорте.</td>
+    </tr>
+    </tbody>
+  </table>
+  </div>
+
+<div>
+  <div><img src="/img272.jpg"  className='imgSicleSuperBig' alt="img"></img></div>
+</div> 
+</div>
+
+<br/>
+<div className="liSection5">
+<div>
+  <table class="table" cellspacing="20">
+  <tbody>
+    <tr>
+      <th scope="row">
+      <img src="/logo.png" className="imgLogo" alt="img"></img>
+      </th>
+      <td className='Candara2'>Оздоровительные программы в бальнеологическом курорте Мацеста* :</td>
+    </tr>
+    <tr>
+    <th scope="row"><img src="/logo.png" className="imgLogo" alt="img"></img></th>
+      <td className='Candara2'>Бальнеотерапия — это оздоровление минеральными водами и лечебными грязями.</td>
+    </tr>
+    <tr>
+      <th scope="row"><img src="/logo.png" className="imgLogo" alt="img"></img></th>
+      <td className='Candara2'>Мацеста рекомендуется при заболеваниях суставов, расстройствах нервной системы, сердечно-сосудистых и кожных
+заболеваниях, урологических и гинекологических, гастроэнтерологических, а также нарушении обменных процессов в организме.</td>
+    </tr>
+    <tr>
+    <th scope="row"><img src="/logo.png" className="imgLogo" alt="img"></img></th>
+      <td className='Candara2'>Минздравом РФ утверждены методики лечения на Мацесте более 1500 заболеваний, с помощью сероводородных, родоновых,
+йодобромных ванн, питьевой минеральной мацестинской воды и грязелечения.</td>
+    </tr>
+    <tr>
+      <th scope="row"><img src="/logo.png" className="imgLogo" alt="img"></img></th>
+      <td className='Candara2'>Ученые в ходе исследований выяснили, что Мацестинский
+сероводород замедляет процесс старения, активизируя «гормон молодости» - Сиртуин-1.</td>
+    </tr>
+    </tbody>
+  </table>
+  </div>
+
+<div>
+  <div><img src="/img12.jpg"  className='imgLi' alt="img"></img></div>
+</div> 
+</div>
+
+<p className='Candara2'>* 30 мин. прогулки вдоль красивой набережной или 12 мин на маршрутке </p>
+
+<br/>
+<div className="bannerSection">
+  <div className="banner3">
+    <h3 className='AlmaItalic'>Дополнительные сервисы и возможности: <br/>активный отдых и детские программы</h3>       
+  </div>
+</div>
+
+<div className="liSection5">
+<div>
+  <table class="table" cellspacing="20">
+  <tbody>
+    <tr>
+      <th scope="row">
+      <img src="/logo.png" className="imgLogo" alt="img"></img>
+      </th>
+      <td className='Candara2'> Детские программы</td>
+    </tr>
+    <tr>
+    <th scope="row"><img src="/logo.png" className="imgLogo" alt="img"></img></th>
+      <td className='Candara2'>Кулинарные мастер-классы</td>
+    </tr>
+    <tr>
+      <th scope="row"><img src="/logo.png" className="imgLogo" alt="img"></img></th>
+      <td className='Candara2'>Походы</td>
+    </tr>    
+    </tbody>
+  </table>
+  <div><img src="/img287.jpg"  className='imgLi' alt="img"></img></div>
+  </div>
+
+<div>
+  <div><img src="/img13.jpg"  className='imgLi' alt="img"></img></div>
+</div> 
+</div>
+
+<br/>
+<div className="bannerSection">
+  <div className="banner3">
+    <h3 className='AlmaItalic'>Дополнительные сервисы и возможности: <br/>путешествия и экскурсии</h3>       
+  </div>
+</div>
+
+<div className="liSection5">
+<div>
+  <table class="table" cellspacing="20">
+  <tbody>
+    <tr>
+      <th scope="row">
+      <img src="/logo.png" className="imgLogo" alt="img"></img>
+      </th>
+      <td className='Candara2'>Экскурсии по г.Сочи</td>
+    </tr>
+    <tr>
+    <th scope="row"><img src="/logo.png" className="imgLogo" alt="img"></img></th>
+      <td className='Candara2'>Путешествия в Абхазию (однодневные)</td>
+    </tr>
+    <tr>
+      <th scope="row"><img src="/logo.png" className="imgLogo" alt="img"></img></th>
+      <td className='Candara2'>Морские путешествия в Турцию, Грузию – в разработке</td>
+    </tr>    
+    </tbody>
+  </table>
+  </div>
+
+  <div className='Grid2x2'>
+  <div><img src="/img302.jpg" className="imgCub" alt="img"></img></div>
+  <div><img src="/img300.jpg" className="imgCub" alt="img"></img></div>
+  <div><img src="/img301.jpg" className="imgCub" alt="img"></img></div>
+  <div><img src="/img299.jpg" className="imgCub" alt="img"></img></div>
 </div>
 </div>
+
+<br/>
+<div className="bannerSection">
+  <div className="banner3">
+    <h3 className='AlmaItalic'>Дополнительные сервисы и возможности: <br/> досуг и активный отдых</h3>       
+  </div>
+</div>
+
+<div className="liSection5">
+  <div>
+  <p className='Candara2'>Что еще интересного рядом с Ашрамом:</p>
+  <table class="table" cellspacing="20">
+  <tbody>
+    <tr>
+      <th scope="row">
+      <img src="/logo.png" className="imgLogo" alt="img"></img>
+      </th>
+      <td className='Candara2'> UP-станция (школа и прокат сап-бордов) *
+</td>
+    </tr>
+    <tr>
+    <th scope="row"><img src="/logo.png" className="imgLogo" alt="img"></img></th>
+      <td className='Candara2'>Серф-станция (обучение виндсерфингу и покат)</td>
+    </tr>
+    <tr>
+      <th scope="row"><img src="/logo.png" className="imgLogo" alt="img"></img></th>
+      <td className='Candara2'> Электросамокаты</td>
+    </tr>
+    <tr>
+    <th scope="row"><img src="/logo.png" className="imgLogo" alt="img"></img></th>
+      <td className='Candara2'> Закрытый бассейн с банным комплексом</td>
+    </tr>
+    <tr>
+      <th scope="row"><img src="/logo.png" className="imgLogo" alt="img"></img></th>
+      <td className='Candara2'> Культурное Сочи: Зимний театр, Органный зал, Дендрарий</td>
+    </tr>
+    </tbody>
+  </table>
+  </div>
+  <div className='Grid2x2'>
+  <div><img src="/img310.jpg" className="imgCub" alt="img"></img></div>
+  <div><img src="/img309.jpg" className="imgCub" alt="img"></img></div>
+  <div><img src="/img311.jpg" className="imgCub" alt="img"></img></div>
+  <div><img src="/img312.jpg" className="imgCub" alt="img"></img></div>
+</div>
+</div>
+<p className='Candara2'>* SUP серфинг - это скольжение по воде при помощи доски и весла</p>
+
+<br/>
+<footer>
+<div><img src="/logo2.png" className="logo2" alt="img"></img></div>
+  <div className="">
+    <h3 className='Alma'>Ашрам Сочи</h3>
+    <h4 className='Caveat'>Веды как образ жизни</h4>       
+  </div>
+    <h3 className='Candara2'>По вопросам организации:<br/>+7-988-487-65-27 Ольга 
+      <h2 href="#" className='Caveat'>Оставить заявку</h2>
+    </h3>
+    
+  <div>
+
+  </div>
+</footer>
+
 
 
 
